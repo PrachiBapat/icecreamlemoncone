@@ -675,7 +675,8 @@ section {
     position: fixed;
     top: 0;
     left: -110%;
-    background: #fff;
+    /* background: #fff; */
+    background: #C8A2C8;
     z-index: 10000;
     width: 35rem;
     height: 100%;
